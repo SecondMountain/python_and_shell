@@ -44,5 +44,8 @@ if __name__ == '__main__':
     input_file.write(data)  # 写入数据
     input_file.close()  # 关闭文件
 
+#标准输入输出流    
+sys.stdin.readline()
+sys.stdout.write()
 
 
